@@ -1,0 +1,5 @@
+raw_data/dicom/
+raw_data/metadata/
+raw_data/uploads/
+__pycache__/
+*.zip
